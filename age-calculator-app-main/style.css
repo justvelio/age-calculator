@@ -111,7 +111,7 @@ small {
     color: red;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 375px) {
     .card {
         width: 360px;
     }
